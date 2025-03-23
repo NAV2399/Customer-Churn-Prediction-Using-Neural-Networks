@@ -41,8 +41,7 @@ CNNs captured deeper patterns compared to traditional FNN models
 
 Clone the repository:
 
-git clone [https://github.com/your-username/your-repo.git](https://github.com/NAV2399/Customer-Churn-Prediction-Using-Neural-Networks/edit/main/README.md)
-cd 
+git clone (https://github.com/NAV2399/Customer-Churn-Prediction-Using-Neural-Networks)
 
 
 Run the Jupyter Notebook:
