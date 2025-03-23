@@ -1,12 +1,17 @@
 Customer Churn Prediction using Neural Networks
+
+
 📌 Project Overview
 This project focuses on predicting customer churn using Neural Networks (FNN) and Convolutional Neural Networks (CNN). By analyzing telecom customer data, we can identify key factors that contribute to customer churn and help businesses improve retention strategies.
+
 
 🔍 Dataset Details
 Dataset: Telco Customer Churn Dataset
 Records: 7,043 customers
 Features: 21 (tenure, contract type, payment method, etc.)
 Target Variable: Churn (Yes/No)
+
+
 🛠 Technologies Used
 Python (Pandas, NumPy, Seaborn, Matplotlib)
 TensorFlow/Keras (Neural Networks & CNNs)
@@ -25,7 +30,9 @@ Short-tenure customers are more likely to churn
 Month-to-month contracts have higher churn rates
 Electronic check payments show a strong correlation with churn
 CNNs captured deeper patterns compared to traditional FNN models
-🚀 Running the Project
+
+
+##🚀 Running the Project
 Clone the repository:
 bash
 Copy
