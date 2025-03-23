@@ -1,4 +1,4 @@
-##Customer Churn Prediction using Neural Networks
+#Customer Churn Prediction using Neural Networks
 
 
 📌 Project Overview
@@ -6,6 +6,8 @@ This project focuses on predicting customer churn using Neural Networks (FNN) an
 
 
 🔍 Dataset Details
+
+
 Dataset: Telco Customer Churn Dataset
 Records: 7,043 customers
 Features: 21 (tenure, contract type, payment method, etc.)
@@ -28,6 +30,7 @@ Jupyter Notebook
 ✔️ Model 1: Feedforward Neural Network (FNN) – Trained using TensorFlow/Keras
 ✔️ Model 2: Convolutional Neural Network (CNN) – Used 1D convolution layers
 ✔️ Evaluation Metrics: Accuracy, Precision, Recall, F1-score, AUC
+
 
 📌 Key Insights
 
