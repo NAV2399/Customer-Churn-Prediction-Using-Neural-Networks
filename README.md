@@ -1,4 +1,4 @@
-Customer Churn Prediction using Neural Networks
+##Customer Churn Prediction using Neural Networks
 
 
 📌 Project Overview
@@ -17,7 +17,11 @@ Python (Pandas, NumPy, Seaborn, Matplotlib)
 TensorFlow/Keras (Neural Networks & CNNs)
 Scikit-Learn (Data Preprocessing, Train-Test Split)
 Jupyter Notebook
+
+
 📊 Project Workflow
+
+
 ✔️ Exploratory Data Analysis (EDA): Understanding churn trends
 ✔️ Data Preprocessing: Encoding categorical features, handling missing values
 ✔️ Feature Engineering: Normalizing numerical variables
@@ -26,6 +30,7 @@ Jupyter Notebook
 ✔️ Evaluation Metrics: Accuracy, Precision, Recall, F1-score, AUC
 
 📌 Key Insights
+
 Short-tenure customers are more likely to churn
 Month-to-month contracts have higher churn rates
 Electronic check payments show a strong correlation with churn
@@ -33,21 +38,21 @@ CNNs captured deeper patterns compared to traditional FNN models
 
 
 ##🚀 Running the Project
+
 Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+
+git clone [https://github.com/your-username/your-repo.git](https://github.com/NAV2399/Customer-Churn-Prediction-Using-Neural-Networks/edit/main/README.md)
+cd 
+
+
 Run the Jupyter Notebook:
-bash
-Copy
-Edit
 jupyter notebook
+
+
 📩 Contact
 For feedback or collaboration, feel free to reach out!
 
-📧 Email: your-email@example.com
-🔗 LinkedIn: Your Profile
+📧 Email: naveenraghavanpalani@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/naveen-raghavan-palani-8285b31bb
 
 
